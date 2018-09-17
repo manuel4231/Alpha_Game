@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6fb9e8736aa883141a88ca0ee25b1af4
+timeCreated: 1510241527
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Shooting
+  fontNames:
+  - Zombie Shooting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
